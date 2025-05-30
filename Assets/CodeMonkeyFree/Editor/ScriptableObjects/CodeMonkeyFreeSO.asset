@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d777d270cee3a5c419cb21a828556f1a, type: 3}
+  m_Name: CodeMonkeyFreeSO
+  m_EditorClassIdentifier: 
+  currentVersion: 1.01
+  subtype: kitchenchaos
+  lastShownTimestamp: 1748547634
+  lastUpdateResponse:
+    version: 1.01
+    versionUrl: https://unitycodemonkey.com
+  checkedLastUpdateTimestamp: 1748547634
+  lastQOTDResponse:
+    questionId: 185
+    questionText: What is the purpose of Unity Hub?
+    answerA: Provide a space for the community to interact
+    answerB: Manage different Unity versions and Projects
+    answerC: Dashboard for Unity services
+    answerD: 
+    answerE: 
+  lastQotdTimestamp: 1748547634
+  lastDynamicHeaderResponse:
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleMay252DGameAssets.png
+    topText: HUGE bundle with literally 10,000+ 2D elements! 97% OFF! (ENDS SOON)
+    topLink: humblebundle
+    bottomText: My 10+ Years of C# Knowledge in 1 Course!
+    bottomLink: csharpcourse
+  lastDynamicHeaderTimestamp: 1748547634
+  websiteLatestMessage:
+    text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
+      Click here!</a>
+  websiteLatestMessageTimestamp: 1748547634
+  websiteLatestVideos:
+    videos:
+    - youTubeId: iB1_PBY-BCQ
+      title: Make BETTER games FASTER, Learn 70 Unity Tools and Features! (6th FREE
+        Update)
+    - youTubeId: 29ejb-nzO1A
+      title: Is Schedule I a LOW EFFORT Game?
+    - youTubeId: YCj1VXyxtwI
+      title: Was I WRONG? Do Gamers really NOT care about AI?
+    - youTubeId: 9WRioxheeSU
+      title: I can't believe it's been ONE YEAR! (actually 4 birthdays)
+  websiteLatestVideosTimestamp: 1748547634
